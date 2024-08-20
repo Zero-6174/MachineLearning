@@ -1,0 +1,6 @@
+Syntactic Processing Assignment is shared on this 
+GitHub path: https://github.com/arunsy/SyntacticProcessingAssign
+
+Following files are shared in this repository.
+- Syntactic_Processing_Assignment.ipynb (Python file)
+- README.md

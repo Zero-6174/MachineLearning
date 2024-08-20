@@ -1,0 +1,8 @@
+Gesture Recognition analysis is shared on this 
+GitHub path: https://github.com/arunsy/GestureRecognition
+
+Following files are shared in this repository.
+- MLC42_GestureRecongintion_RNN_Model.ipynb (Final Python notebook)
+- MLC42_GestureRecoginition_Study_Writeup.pdf (Analysis result writeup)
+- Experiment (Other experiemented python notebook)
+- README.md
